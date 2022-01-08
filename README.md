@@ -1,5 +1,4 @@
-## Bat to C converter
-![Lines of code](https://img.shields.io/tokei/lines/github/b1ek/Bat2C?color=gray&label=total%20lines%3A&style=plastic)<br/>
+## Bat to C converter ![Lines of code](https://img.shields.io/tokei/lines/github/b1ek/Bat2C?color=gray&label=total%20lines%3A&style=plastic)<br/>
 Not compiler. A converter.
 It does not really process code.
 
@@ -32,8 +31,7 @@ Done! Your exe file should be in the same directory named `out.exe`.
 ---
 На русском:
 
-## Конвертер файла .bat в C код
-![Lines of code](https://img.shields.io/tokei/lines/github/b1ek/Bat2C?color=gray&label=%D0%B2%D1%81%D0%B5%D0%B3%D0%BE%20%D0%BB%D0%B8%D0%BD%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%B4%D0%B0%3A&style=plastic)<br/>
+## Конвертер файла .bat в C код ![Lines of code](https://img.shields.io/tokei/lines/github/b1ek/Bat2C?color=gray&label=%D0%B2%D1%81%D0%B5%D0%B3%D0%BE%20%D0%BB%D0%B8%D0%BD%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%B4%D0%B0%3A&style=plastic)<br/>
 Именно конвертер, а не компилятор. Он не обрабатывает код.
 
 Он просто переписывает .bat код в `c` используя `system(LINE)`
