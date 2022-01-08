@@ -985,7 +985,8 @@ public:
         stream << parser.mEpilog << "\n\n";
     }
 
-    stream << "\n\x1b[90mForged by blek! in the depths of hell\x1b[0m\n";
+    stream << "\n\x1b[90mForged by blek! in the depths of hell\n"; // \x1b[0m
+    stream << "GitHub source code: https://github.com/b1ek/Bat2C\n\x1b[0m";
     return stream;
   }
 
