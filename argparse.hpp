@@ -985,6 +985,7 @@ public:
         stream << parser.mEpilog << "\n\n";
     }
 
+    stream << "\n\x1b[90mForged by blek! in the depths of hell\x1b[0m\n";
     return stream;
   }
 

@@ -24,7 +24,7 @@ std::string lower_s(std::string s) {
 }
 
 int main(int argc, char* argv[]) {
-	argparse::ArgumentParser program("Bat2C");
+	argparse::ArgumentParser program("Bat2C", "1.0 - Stable beta");
 	program.add_argument("path")
 		.help("The path to your .bat file from the current directory.")
 		.required()
