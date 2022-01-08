@@ -1,0 +1,31 @@
+//AUTO-GENERATED
+//By Bat2C program
+//written by blek
+//compile with tcc/cl&crinkler
+#include <stdlib.h>
+int main() {
+
+REM Simple program
+@ECHO OFF
+ECHO hi!
+PAUSE    system("REM Simple program");
+REM Simple program
+@ECHO OFF
+ECHO hi!
+PAUSE    system("REM Simple program");
+    system("@ECHO OFF");
+REM Simple program
+@ECHO OFF
+ECHO hi!
+PAUSE    system("REM Simple program");
+    system("@ECHO OFF");
+    system("ECHO hi!");
+REM Simple program
+@ECHO OFF
+ECHO hi!
+PAUSE    system("REM Simple program");
+    system("@ECHO OFF");
+    system("ECHO hi!");
+    system("PAUSE");
+}
+
