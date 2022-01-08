@@ -2,6 +2,7 @@
 Not compiler. A converter.
 It does not really process code.
 
+Tested on `c++ bat2c.cpp -s -Os -std=c++2a`, windows 10.
 Just re writes the bat code to C using `system(LINE)`<br/>
 __**(есть текст на русском пониже)**__
 
